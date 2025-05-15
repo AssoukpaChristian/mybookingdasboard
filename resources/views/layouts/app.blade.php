@@ -103,7 +103,7 @@
         vertical-align: top;
       }
     </style>
-
+    @livewireStyles
   </head>
   <!--end::Head-->
 
@@ -296,6 +296,6 @@
 
     })
     </script>
-
+    @livewireScripts
   </body>
 </html>
